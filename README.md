@@ -7,7 +7,7 @@ This is a working repository for a course about versioning with Git, data reposi
   - open Terminal application
   - find or create the folder into which you want to clone the repository (e.g. Unix: `cd FOLDERNAME` or `mkdir FOLDERNAME`)
   - execute `git init`
-  - execute `git clone https://github.com/meehka/UEF`
+  - execute `git clone https://github.com/meehkal/UEF`
 
 2 Edit files in the repository locally on your computer
 
