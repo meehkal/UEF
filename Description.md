@@ -1,0 +1,3 @@
+Multimedia and multipurpose corpus construction for diversity linguistics
+---
+The project develops methods and tools for collaborative creation, versioning, and validation of corpus data in diversity linguistics. It focuses on multimodal data integration, metadata visualization, and continuous process monitoring to ensure transparency, traceability, multifunctionality, and sustainability in corpus work.
